@@ -82,8 +82,7 @@
 
 ## 📬 Connect with Me
 
-*   💼 **LinkedIn**: [linkedin.com/in/prateekpulkit](https://www.linkedin.com/in/prateek-pulkit-b45278323) (update with your actual link)
+*   💼 **LinkedIn**: [https://www.linkedin.com/in/prateek-pulkit-b45278323](https://www.linkedin.com/in/prateek-pulkit-b45278323)
 *   📧 **Email**: [prateekpulkit124@gmail.com](mailto:prateekpulkit124@gmail.com)
-*   🌐 **Personal Portfolio**: [prateekpulkit.dev](https://prateekpulkit.dev) (update with your actual domain)
 
 *“Encrypt today, protect tomorrow.”*
